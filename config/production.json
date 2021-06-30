@@ -1,0 +1,7 @@
+{
+    "port": 6000,
+    "db": "mongodb://localhost:27017/user_management",
+    "baseApiUrl": "/api",
+    "securityToken": "userMgnt",
+    "tokenExpiry": 361440
+}
